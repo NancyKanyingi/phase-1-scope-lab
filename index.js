@@ -1,5 +1,5 @@
 // Write your solution in this file!
-const leastFavoriteeCustomer = 'someone'
+const leastFavoriteCustomer = 'someone'
 var customerName = 'bob'
  function customerName(){
     return customerName='bob'
@@ -18,4 +18,4 @@ function overwriteBestCustomer(){
     function changeLeastFavoriteCustomer(){
       leastFavoriteCustomer = 'Someone Else'
 }
-
+changeLeastFavoriteCustomer()
